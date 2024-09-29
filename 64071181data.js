@@ -3,8 +3,14 @@
 
 
 
-
-
+/*
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+https://64071181.github.io
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+*/
+const 龜龜="\u0066\u0063\u0064\u0030\u0036\u0038\u0031\u0037\u0030\u0032\u0030\u0034\u0039\u0066\u0030\u0039\u0032\u0031\u0036\u0033\u0065\u0033\u0034\u0033\u0037\u0035\u0039\u0061\u0032\u0033\u0038\u0066\u0032\u0039\u0065\u0061\u0035\u0035\u0031\u0034\u0064\u0035\u0039\u0035\u0032\u0061\u0065\u0062\u0063\u0061\u0064\u0063\u0038\u0032\u0032\u0034\u0037\u0037\u0035\u0064\u0063\u0033\u0035\u0030"["\u0073\u0070\u006c\u0069\u0074"]("".split("").reverse().join(""))["\u0072\u0065\u0076\u0065\u0072\u0073\u0065"]()["\u006a\u006f\u0069\u006e"]("".split("").reverse().join(""));
 
 
 /*
@@ -46,7 +52,9 @@ const tool2024工具Data = [
 
 
 // 關於我們列表 
-const tool2024關於我們Data = [
+const tool2024關於我們Data = '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'
+
+/*[
   { 內容1: "<h3>數據收集</h3><p>我們在資料收集方面擁有豐富的經驗，可以幫助您尋找潛在客戶、進行市場研究或收集競爭報<br>我們為您提供準確且有價值的信息，以做出明智的業務決策。</p>"},
   { 內容1: "<h3>程式設計與開發</h3><p>我們的團隊擁有豐富的程式設計和開發經驗。<br>我們可以根據您的需求定製程序，無論是網站開發、行動應用程式還是其他自動化工具。<br> 我們的解決方案簡化您的業務流程並提高效率。</p>"},
   { 內容1: "<h3>標誌設計</h3><p>我們提供專業的標誌設計服務，幫助您創建獨特且品牌特定的商標。</p>"},
@@ -62,4 +70,4 @@ const tool2024關於我們Data = [
   { 內容1: "<h3>聯繫我們</h3><p>whatsapp:<a href='https://wa.me/85264071181/?text=查詢全面的數位創意解決方案'>85264071181</a><br>微信：hk64071181</p>"},
   { 內容1: "<a href='https://wa.me/85264071181/?text=查詢加入工具2024團隊'><h3>加入我們</h3><p>我們始終歡迎優秀人才的加入，一起打造更好的工具平台。</p></a>"},
   { 內容1: "<h3>贊助我們</h3><p>我們需要您的持續支持。請贊助我們以繼續我們的服務。<br>所有收益在扣除成本後，將用於支持各種慈善事業。</p><p>Bitcoin: <br>3Bwdrz4H25sW7zFtLWTKhtrRwKg2i6o9GF<br><br>Ethereum: <br>0x84CfF0d94fAAd23439186A050aD175E6242E5161</p>"}
-];
+];*/
