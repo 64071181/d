@@ -1,4 +1,26 @@
 
+/*
+` = \`
+$ = \$
+[`123qwe`]
+
+
+<div id="雲通網插件_百日對年計算機202410242122">
+  <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+  <script src="https://64071181.github.io/d/VIPdata.js">//64071181 page data</script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js">// 加密/解密處理</script>
+
+  <script>
+  const 雲通百日對年 = eval(CryptoJS.AES.decrypt(雲通網插件_百日對年計算機202410242122, 摸老婆).toString(CryptoJS.enc.Utf8))
+  function 顯示data(內容,位置) {
+    $(位置).html(內容)
+  }
+  顯示data(雲通百日對年,'#雲通網插件_百日對年計算機202410242122');
+  </script>
+</div>
+
+
+*/
 const 摸老婆 ="\u0032\u0064\u0032\u0063\u0038\u0062\u0037\u0063\u0036\u0037\u0064\u0030\u0037\u0034\u0061\u0030\u0063\u0032\u0061\u0062\u0035\u0034\u0038\u0037\u0063\u0064\u0034\u0033\u0063\u0032\u0062\u0032\u0035\u0035\u0039\u0061\u0066\u0039\u0034\u0066\u0036\u0039\u0036\u0030\u0035\u0038\u0032\u0064\u0037\u0032\u0039\u0030\u0033\u0037\u0066\u0062\u0034\u0065\u0034\u0066\u0030\u0036\u0037\u0065"["\u0073\u0070\u006c\u0069\u0074"](""["\u0073\u0070\u006c\u0069\u0074"](""["\u0073\u0070\u006c\u0069\u0074"](""["\u0073\u0070\u006c\u0069\u0074"]("".split("").reverse().join(""))["\u0072\u0065\u0076\u0065\u0072\u0073\u0065"]()["\u006a\u006f\u0069\u006e"]("".split("").reverse().join("")))["\u0072\u0065\u0076\u0065\u0072\u0073\u0065"]()['join']("".split("").reverse().join("")))['reverse']()["\u006a\u006f\u0069\u006e"](""['split'](''["\u0073\u0070\u006c\u0069\u0074"]("".split("").reverse().join(""))["\u0072\u0065\u0076\u0065\u0072\u0073\u0065"]()['join'](''))["\u0072\u0065\u0076\u0065\u0072\u0073\u0065"]()['join'](""["\u0073\u0070\u006c\u0069\u0074"]("".split("").reverse().join(""))["\u0072\u0065\u0076\u0065\u0072\u0073\u0065"]()["\u006a\u006f\u0069\u006e"]("".split("").reverse().join("")))))["\u0072\u0065\u0076\u0065\u0072\u0073\u0065"]()['join'](""['split'](""['split']("".split("").reverse().join(""))["\u0072\u0065\u0076\u0065\u0072\u0073\u0065"]()["\u006a\u006f\u0069\u006e"]("".split("").reverse().join("")))["\u0072\u0065\u0076\u0065\u0072\u0073\u0065"]()['join'](''['split']("".split("").reverse().join(""))["\u0072\u0065\u0076\u0065\u0072\u0073\u0065"]()['join']("".split("").reverse().join(""))));
 
 
