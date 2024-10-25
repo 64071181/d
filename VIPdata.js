@@ -5,17 +5,17 @@ $ = \$
 [`123qwe`]
 
 
-<div id="雲通網插件_百日對年計算機202410242122">
+<div id="qqq">
   <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
   <script src="https://64071181.github.io/d/VIPdata.js">//64071181 page data</script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js">// 加密/解密處理</script>
 
   <script>
-  const 雲通百日對年 = eval(CryptoJS.AES.decrypt(雲通網插件_百日對年計算機202410242122, 摸老婆).toString(CryptoJS.enc.Utf8))
+  const data01 = eval(CryptoJS.AES.decrypt(qqq, 摸老婆).toString(CryptoJS.enc.Utf8))
   function 顯示data(內容,位置) {
     $(位置).html(內容)
   }
-  顯示data(雲通百日對年,'#雲通網插件_百日對年計算機202410242122');
+  顯示data(data01,'#qqq');
   </script>
 </div>
 
