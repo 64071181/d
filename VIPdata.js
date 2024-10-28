@@ -2,56 +2,31 @@
 /*
 ` = \`
 $ = \$
+</script> = <\/script>
+
 [`123qwe`]
 
-
-
-
-
-<div id="D_432">
-    <script>
-        (async () => {
-            cdnList=["sj.0.7.3-yreuqj/moc.yreuqj.edoc//:sptth".split("").reverse().join(""),"sj.nim.sj-otpyrc/1.1.4/sj-otpyrc/sbil/xaja/moc.eralfduolc.sjndc//:sptth"["split"]("".split("").reverse().join(""))["reverse"]()["join"]("".split("").reverse().join(""))];
-            eval(decodeURIComponent(escape(atob("Y2RuTGlzdC5wdXNoKCdodHRwczovLzY0MDcxMTgxLmdpdGh1Yi5pby9kL1ZJUGRhdGEuanMnKQ=="))));
-            await Promise.all(
-                cdnList.map(cdn => 
-                    document.querySelector('script[src="${cdn}"]') || new Promise(resolve => {
-                        const script = document.createElement('script');
-                        script.src = cdn;
-                        script.onload = resolve;
-                        document.head.appendChild(script);
-                    })
-                )
-            );
-            console.log('432 = OK!');
-            $('#D_432').html(eval(CryptoJS.AES.decrypt(雲通網插件_日曆轉換202410250047, 摸老婆).toString(CryptoJS.enc.Utf8)));
-        })();
-    </script>
+<div id="D_雲通網插件_農歷吉凶宜忌202410280846">
+  <script>
+      (async () => {
+          cdnList=["sj.0.7.3-yreuqj/moc.yreuqj.edoc//:sptth".split("").reverse().join(""),"sj.nim.sj-otpyrc/1.1.4/sj-otpyrc/sbil/xaja/moc.eralfduolc.sjndc//:sptth"["split"]("".split("").reverse().join(""))["reverse"]()["join"]("".split("").reverse().join(""))];
+          eval(decodeURIComponent(escape(atob("Y2RuTGlzdC5wdXNoKCJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9sdW5hci1qYXZhc2NyaXB0LzEuNi4xMi9sdW5hci5taW4uanMiLCJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvbnBtL2x1bmFyLWNhbGVuZGFyLXpoQDAuMS40L2xpYi9MdW5hckNhbGVuZGFyLm1pbi5qcyIp"))));
+          eval(decodeURIComponent(escape(atob("Y2RuTGlzdC5wdXNoKCdodHRwczovLzY0MDcxMTgxLmdpdGh1Yi5pby9kL1ZJUGRhdGEuanMnKQ=="))));
+          await Promise.all(
+              cdnList.map(cdn => 
+                  document.querySelector('script[src="${cdn}"]') || new Promise(resolve => {
+                      const script = document.createElement('script');
+                      script.src = cdn;
+                      script.onload = resolve;
+                      document.head.appendChild(script);
+                  })
+              )
+          );
+          console.log('雲通網插件_農歷吉凶宜忌202410280846 = OK!');
+          $('#D_雲通網插件_農歷吉凶宜忌202410280846').html(eval(CryptoJS.AES.decrypt(雲通網插件_農歷吉凶宜忌202410280846, 摸老婆).toString(CryptoJS.enc.Utf8)));
+      })();
+  </script>
 </div>
-
-
-<p style="text-align: center;">
-    All rights reserved by <a href="https://64071181.github.io/">64071181.github.io</a>
-</p>
-
-
-//////////////////////////////////////////////////////////////////////////////
-
-<div id="qqq">
-    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
-    <script src="https://64071181.github.io/d/VIPdata.js">//64071181 page data</script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js">// 加密/解密處理</script>
-  
-    <script>
-    const data01 = eval(CryptoJS.AES.decrypt(雲通網插件_農歷日曆吉凶宜忌dvdsss, 摸老婆).toString(CryptoJS.enc.Utf8))
-    function 顯示data(內容,位置) {
-      $(位置).html(內容)
-    }
-    顯示data(data01,'#qqq');
-    </script>
-  </div>
-
-
 
 */
 
