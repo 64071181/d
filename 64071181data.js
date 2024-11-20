@@ -45,5 +45,5 @@ const 數碼轉型商品 = 'U2FsdGVkX19pdjYsLiDHbDYmZUTAklFQybmDpEPj4/tRJNXlYz9U
 
 
 
-const 宣傳王data = 'qwe'//招財進寶
+const 宣傳王data = '新的內容新的內容wwwww新的內容新的內容wwww'//招財進寶
 
