@@ -22,3 +22,10 @@ Permissions
     Metadata = Read
  
   Generate new token
+
+===
+
+GitHub Pages
+
+  Settings => Pages => Branch => main => Save
+  
